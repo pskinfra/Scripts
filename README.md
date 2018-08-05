@@ -1,4 +1,4 @@
-# Steps
+# Version 0.1
 
 1) chmod +x dumpMysql.sh
 2) sh dumpMysql.sh
