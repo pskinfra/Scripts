@@ -2,8 +2,8 @@
 
 FOLDER="/var/backup/mysql"
 LOG="/var/log/backup"
-USER="backup"
-PASSWORD="96828f4f"
+USER="USER"
+PASSWORD="PASS"
 
 HOST=$1
 
